@@ -9,8 +9,6 @@ I eat,breathe,sleep,code repeat
 * 🌍  I'm based in Lusaka, Zambia
 * 🖥️  See my portfolio at [personal projects I have worked on](http://github.com/Mafumu12)
 * ✉️  You can contact me at [mafumumumba@gmail.com](mailto:mafumumumba@gmail.com)
-* 🚀  I'm currently working on [CODEHUB](http://github.com/Mafumu12/CODEHUB)
-* 🧠  I'm learning FASTAPI, Machine Learning, JS
 * 🤝  I'm open to collaborating on Other web application projects
 * ⚡  MMA Enthusiast
 
